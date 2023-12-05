@@ -60,7 +60,7 @@ body {
 }
 
 .projetos {
-  max-height: 300px;
+  max-height: 900px;
   overflow-y: scroll;
   scrollbar-width: thin;
   display: flex;
